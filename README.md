@@ -1,7 +1,7 @@
 # Hey, I'm Alpha 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Cloud+Security+%7C+AWS;Web3+%2F+Crypto+Builder;AI+%2B+Security+Automation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=200&section=header&text=Alpha&fontSize=50&fontColor=00ffcc&animation=blinking" />
 </p>
 
 Cybersecurity Analyst | Cloud Security | Web3 Builder  
