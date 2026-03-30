@@ -1,4 +1,9 @@
 # Hey, I'm Alpha 👋  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alpha%20%7C%20Cyber%20Security%20%2B%20Web3&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 Cybersecurity Analyst | Cloud Security | Web3 Builder  
 
 I build and break systems — focusing on security, automation, and scalable architectures.
@@ -84,13 +89,6 @@ Writeups on security, systems, and development
 • API authentication bypass techniques  
 • Secure fintech system design  
 • AI in cybersecurity automation  
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jash777&show_icons=true&theme=tokyonight)  
-![Streak](https://streak-stats.demolab.com?user=jash777&theme=tokyonight)  
 
 ---
 
