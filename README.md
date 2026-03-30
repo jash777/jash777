@@ -1,8 +1,7 @@
 # Hey, I'm Alpha 👋  
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Alpha%20%7C%20Cyber%20%2B%20Web3&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jash777&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <!-- Typing -->
