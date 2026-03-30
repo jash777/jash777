@@ -1,8 +1,9 @@
 # Hey, I'm Alpha 👋  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jash777&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/jash777/jash777/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 <!-- Typing -->
 <p align="center">
@@ -109,3 +110,8 @@ Writeups on security, systems, and development
 
 Security is not a feature. It's the foundation.  
 Build secure. Break smart. Repeat.
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jash777&theme=github_dark" />
+</p>
+
