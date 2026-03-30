@@ -1,7 +1,7 @@
 # Hey, I'm Alpha 👋  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jash777&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jash777&theme=github_dark" />
 </p>
 
 <!-- Typing -->
