@@ -1,9 +1,8 @@
 # Hey, I'm Alpha 👋  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jash777/jash777/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Alpha%20%7C%20Cyber%20%2B%20Web3&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 
 <!-- Typing -->
 <p align="center">
