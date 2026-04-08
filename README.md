@@ -11,7 +11,7 @@
 
 Cybersecurity Analyst | Cloud Security | Web3 Builder  
 
-I build and break systems — focusing on security, automation, and scalable architectures.
+I build and break systems - focusing on security, automation, and scalable architectures.
 
 ---
 
